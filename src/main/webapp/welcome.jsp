@@ -21,7 +21,7 @@ body {
 	margin:0;
 	width: 100%;
 	height:680px;
-	background: linear-gradient(60deg, rgba(158, 189, 19, 0.2), rgba(0, 133, 82, 0.2)), url('images/yit.jpg') center no-repeat;
+	background: linear-gradient(60deg, rgba(158, 189, 19, 0.2), rgba(0, 133, 82, 0.2)), url('images/kits.jpg') center no-repeat;
   	background-size: cover;
 }
 .content h1{
@@ -177,7 +177,7 @@ img
 </head>
 <body>
 <header class="header">
-		<img src="images/logo.png" alt="logo" width=80 height=auto>
+		<img src="images/logo.jpg" alt="logo" width=80 height=auto>
       <ul class="main-nav">
           <li><a id="active" href="welcome.jsp">Home</a></li>
           <div class="dropdown">
@@ -194,8 +194,8 @@ img
 </header> 
 <div class="content">
 <h1>CAMPUS RECRUITMENT PORTAL</h1>
-<h2>YENEPOYA INSTITUTE OF TECHONOLOGY</h2>
-<h3>N.H. 13, Thodar, Moodbidri, Mangaluru-574224 (D.K), Karnataka</h3>
+<h2>KAVIKULGURU INSTITUTE OF TECHONOLOGY</h2>
+<h3>Sheetalwadi, Ramtek, Nagpur, Maharashtra</h3>
 </div>
 </body>
 </html>
